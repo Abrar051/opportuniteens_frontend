@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Bungee Inline">@import url(https://fonts.googleapis.com/css2?family=Bungee+Inline%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgb(48, 78, 84); font-family: &quot;Bungee Inline&quot;; font-size: 1500px; letter-spacing: 7.7px; stroke-dashoffset: 13px; stroke-width: 50px; text-anchor: middle; text-transform: uppercase; word-spacing: 14.7px; white-space: pre;" transform="matrix(0.307554, 0, 0, 0.551841, 173.025757, 102.731682)" x="250" y="302.315">Opportuniteens</text>
+</svg>
